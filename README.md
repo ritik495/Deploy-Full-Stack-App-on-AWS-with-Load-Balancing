@@ -1,1 +1,1 @@
-# Deploy-Full-Stack-App-on-AWS-with-Load-Balancing
+# Deploy-Full-Stack-App-on-AWS-with-Load-Balancing<img width="1536" height="1024" alt="debf1146-9c11-49f0-90d0-933ca3519568" src="https://github.com/user-attachments/assets/26306731-f0dd-44a0-86c3-f304a49e2d19" />
